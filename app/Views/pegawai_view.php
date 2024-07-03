@@ -13,7 +13,7 @@
         }
 
         body {
-            background-color: gray;
+            background-color: #999;
 
         }
     </style>
