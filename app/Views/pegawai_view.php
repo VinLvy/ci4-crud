@@ -11,6 +11,11 @@
             max-width: 800px;
             margin-top: 20px;
         }
+
+        body {
+            background-color: #999;
+
+        }
     </style>
 </head>
 
